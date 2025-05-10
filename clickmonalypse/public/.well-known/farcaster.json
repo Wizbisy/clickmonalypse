@@ -1,0 +1,30 @@
+
+{
+  "accountAssociation": {
+    "header": "YOUR_FARCASTER_HEADER",
+    "payload": "YOUR_FARCASTER_PAYLOAD",
+    "signature": "YOUR_FARCASTER_SIGNATURE"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Clickmonalypse",
+    "iconUrl": "https://clickmonalypse.vercel.app/assets/icon.png",
+    "homeUrl": "https://clickmonalypse.vercel.app",
+    "splashImageUrl": "https://clickmonalypse.vercel.app/assets/splash.png",
+    "splashBackgroundColor": "#4B0082",
+    "webhookUrl": "https://clickmonalypse-backend.onrender.com/webhook",
+    "subtitle": "Reaction-based game",
+    "description": "Click to reset the timer and win the pot on Monad Testnet!",
+    "screenshotUrls": [
+      "https://clickmonalypse.vercel.app/assets/screenshot1.png",
+      "https://clickmonalypse.vercel.app/assets/screenshot2.png"
+    ],
+    "primaryCategory": "games",
+    "tags": ["game", "monad", "clickmonalypse", "farcaster"],
+    "heroImageUrl": "https://clickmonalypse.vercel.app/assets/hero.png",
+    "tagline": "Click to Win on Monad!",
+    "ogTitle": "Clickmonalypse",
+    "ogDescription": "Click to reset the timer and win the pot on Monad Testnet!",
+    "ogImageUrl": "https://clickmonalypse.vercel.app/api/og"
+  }
+}
